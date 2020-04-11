@@ -1,0 +1,12 @@
+# IGNORAR TODOS OS ARQUIVOS XLSX
+
+ARQUIVOS/
+.ipynb_checkpoints/
+
+*.ipynb
+*.xlsx
+*.docx
+*.csv
+*.txt
+*.html
+*.rar
