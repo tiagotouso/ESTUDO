@@ -2,6 +2,7 @@
 
 ARQUIVOS/
 .ipynb_checkpoints/
+__pycache__/
 
 *.ipynb
 *.xlsx
